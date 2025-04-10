@@ -1,0 +1,2 @@
+MACHINE="beaglebone"
+nice bitbake -k st4-sde || return
